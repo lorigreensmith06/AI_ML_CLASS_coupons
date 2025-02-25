@@ -20,18 +20,14 @@ When I looked further, I realized that there were only 3 people in the dataset w
 
 ![image](https://github.com/user-attachments/assets/9f31a3f8-052c-4ba4-99a6-7ed6072df045)
 
-
-I also explored the education level of drivers who accepted coupons.
-
-![image](https://github.com/user-attachments/assets/fa788c0b-ca7b-4793-83ce-83057576b2a5)
-
 The acceptance rate for education level is lower for the highest level in the dataset which is Graduate level.  This may correlate with income where the highest levels don't have as much of a need to use coupons.
 
 ![image](https://github.com/user-attachments/assets/6683f7ad-096c-4cdc-8e0f-3223ee09aeff)
 
-Age is also a big factor in comparing this data.  The younger people in the database are more likely to accept restaurant coupons.
+Acceptance rates for age don't seem to have a significant difference.  Acceptance rates are fairly steady across the different age groups for both the cheap restaurants and the more expensive restaurants.
 
-![image](https://github.com/user-attachments/assets/119f7be6-c259-4326-b8da-15358146ce65)
+![image](https://github.com/user-attachments/assets/7aa247fe-8d62-4f7d-9bdc-5b3a793227f6)
+
 
 
 
