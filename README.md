@@ -1,8 +1,8 @@
 # AI_ML_CLASS_coupons
 
-How does Income Level, Education, and Marital Status and Age Effect the Acceptance of Coupons for Cheap Restaurants and More Expensive Restaurants?
+How does Income Level, Education, Marital Status and Age Affect the Acceptance of Coupons for Cheap Restaurants and More Expensive Restaurants?
 
-Coupons Acceptance Report
+<h3>Coupons Acceptance Report</h3>
 
 
 One of the most interesting findings was comparing income to the coupon acceptance of cheap restaurants and more expensive restaurants.
@@ -30,6 +30,12 @@ Acceptance rates for age don't seem to have a significant difference.  Acceptanc
 
 
 
+<h3>Conclusions</h3>
 
+Perhaps the people who pay the most attention to coupons are the ones who have to be most careful with their money.  High-income individuals used coupons for cheap restaurants 30% less than mid-income groups.  Education levels correlate with the income levels.  People with kids in the car accepted coupons at higher rates.
 
-Perhaps the people who pay the most attention to coupons are the ones who have to be most careful with their money.  Higher incomes accepted coupons for cheap restaurants at a lower rate than people with mid and low incomes.  Education levels correlate with the income levels.  People with kids in the car accpted 
+<h3>Recommendations</h3>
+
+I would recommend marketing focused on people who need to save money.  I would not spend as much money on the higher income brackets. 
+Marketing to people with families, and middle income families may be a good target.  
+I would also recommend studying the single parent group as it had a 100% acceptance rate in this sample. A larger sample size would be needed to determine if this group is indeed a group that could be targeted for coupon acceptance.
